@@ -14,26 +14,26 @@ author_profile: true
 <head>
   <link rel="stylesheet" href="styles.css">
   <style>
-    .archive a {
-      text-decoration: none !important; /* Removes underline */
+    a {
+      text-decoration: none; /* Removes underline */
       color: #449DBC; /* Makes the link blue */
     }
-    .archive a:hover {
-      text-decoration: none !important; /* Optional: adds underline on hover */
+    a:hover {
+      text-decoration: none; /* Optional: adds underline on hover */
     }
-    .archive span a {
+    span a {
       border: 2px solid #449DBC;
       padding: 1px 6px;
       border-radius: 3px;
       text-decoration: none !important;
     }
-    .archive span a:hover {
+    span a:hover {
       background-color:#449DBC;
       color: white;
       transition: all 0.3s ease;
       text-decoration: none !important;
     }
-    .archive span {
+    span {
       margin-right: 20px;
     }
   </style>
@@ -43,10 +43,12 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">Google 
 
 <div class="paper-container">
   <div class="media-container">
-    <img src="ringo.gif" alt="GIF Description" class="paper-image">
+    <a href="/ringo/">
+      <img src="ringo.gif" alt="GIF Description" class="paper-image">
+    </a>
   </div>
   <div class="info-container">
-    <p class="paper-title"><a href="/ringo/">RINGO: Real-time Navigation with a Guiding Trajectory for Aerial Manipulators in Unknown Environments</a></p>
+    <p class="paper-title">RINGO: Real-time Navigation with a Guiding Trajectory for Aerial Manipulators in Unknown Environments</p>
     <p class="authors"><b>Zhaopeng Zhang</b>, <a href="https://scholar.google.com/citations?user=SLfWXGgAAAAJ&hl=zh-CN&oi=ao">Shizhen Wu</a>, Chenfeng Guo, Yongchun Fang, Jianda Han, and Xiao Liang*</p>
     <p class="journal"><b>arXiv</b>, 2025</p>
     <p class="url">
@@ -58,10 +60,12 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">Google 
 
 <div class="paper-container">
   <div class="media-container">
-    <img src="2025-TMech.gif" alt="GIF Description" class="paper-image">
+    <a href="/tmech/">
+      <img src="2025-TMech.gif" alt="GIF Description" class="paper-image">
+    </a>
   </div>
   <div class="info-container">
-    <p class="paper-title"><a href="/tmech/">An End-Effector-Oriented Coupled Motion Planning Method for Aerial Manipulators in Constrained Environments</a></p>
+    <p class="paper-title">An End-Effector-Oriented Coupled Motion Planning Method for Aerial Manipulators in Constrained Environments</p>
     <p class="authors"> <b>Zhaopeng Zhang</b>, <a href="https://u-hai.github.io/">Hai Yu</a>, Yi Chai, Zhichao Yang, Xiao Liang*, Yongchun Fang, and Jianda Han </p>
     <p class="journal"> <b>IEEE/ASME Transactions on Mechatronics</b>, early access, 2025 </p>
     <p class="url">
