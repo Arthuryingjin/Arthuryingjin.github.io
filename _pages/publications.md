@@ -14,26 +14,26 @@ author_profile: true
 <head>
   <link rel="stylesheet" href="styles.css">
   <style>
-    a {
-      text-decoration: none; /* Removes underline */
+    .archive a {
+      text-decoration: none !important; /* Removes underline */
       color: #449DBC; /* Makes the link blue */
     }
-    a:hover {
-      text-decoration: none; /* Optional: adds underline on hover */
+    .archive a:hover {
+      text-decoration: none !important; /* Optional: adds underline on hover */
     }
-    span a {
+    .archive span a {
       border: 2px solid #449DBC;
       padding: 1px 6px;
       border-radius: 3px;
       text-decoration: none !important;
     }
-    span a:hover {
+    .archive span a:hover {
       background-color:#449DBC;
       color: white;
       transition: all 0.3s ease;
       text-decoration: none !important;
     }
-    span {
+    .archive span {
       margin-right: 20px;
     }
   </style>
