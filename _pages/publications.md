@@ -48,7 +48,7 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">Google 
     </a>
   </div>
   <div class="info-container">
-    <p class="paper-title">RINGO: Real-time Navigation with a Guiding Trajectory for Aerial Manipulators in Unknown Environments</p>
+    <p class="paper-title">RINGO: Real-time Locomotion Planning via a Guiding Trajectory for Aerial Manipulators</p>
     <p class="authors"><b>Zhaopeng Zhang</b>, <a href="https://scholar.google.com/citations?user=SLfWXGgAAAAJ&hl=zh-CN&oi=ao">Shizhen Wu</a>, Chenfeng Guo, Yongchun Fang, Jianda Han, and Xiao Liang*</p>
     <p class="journal"><b>arXiv</b>, 2025</p>
     <p class="url">
