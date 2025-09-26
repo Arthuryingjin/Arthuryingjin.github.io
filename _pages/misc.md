@@ -13,8 +13,6 @@ redirect_from:
 
 ### Other Experience
 
-- Leader of Cantonese Club, Nankai University, 2019-2020
-
 - My aerial manipulator was on the Tianjin news. The original report is in [link](http://news.enorth.com.cn/system/2025/03/15/058176991.shtml).
 
 <div style="margin-left: 40px;">
