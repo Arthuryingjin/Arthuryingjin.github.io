@@ -24,7 +24,7 @@ My research interest includes robotic manipulation and Reinforcement Learning.
       Sep. 2025 – now
     </td>
     <td style="padding-left: 20px; width: 30%; text-align: center; border: none;"> <!-- 图标居中 -->
-      <img src="/images/Liverpool.jpg" alt="Nankai University Logo" width="60%">
+      <img src="/images/University_of_Liverpool_logo.svg.png" alt="University of Liverpool Logo" width="60%">
     </td>
   </tr>
   <tr>
