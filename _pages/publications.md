@@ -41,7 +41,7 @@ author_profile: true
 
 You can also find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a>.
 
-<div class="paper-container">
+<!-- <div class="paper-container">
   <div class="media-container">
     <a href="/ringo/">
       <img src="ringo.gif" alt="GIF Description" class="paper-image">
@@ -56,49 +56,6 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">Google 
     <span><a href="http://cheungsiupaang.github.io/files/onlineplanning.pdf">pdf</a></span>
     </p>
   </div>
-</div>
+</div> -->
 
-<div class="paper-container">
-  <div class="media-container">
-    <a href="/tmech/">
-      <img src="2025-TMech.gif" alt="GIF Description" class="paper-image">
-    </a>
-  </div>
-  <div class="info-container">
-    <p class="paper-title">An End-Effector-Oriented Coupled Motion Planning Method for Aerial Manipulators in Constrained Environments</p>
-    <p class="authors"> <b>Zhaopeng Zhang</b>, <a href="https://u-hai.github.io/">Hai Yu</a>, Yi Chai, Zhichao Yang, Xiao Liang*, Yongchun Fang, and Jianda Han </p>
-    <p class="journal"> <b>IEEE/ASME Transactions on Mechatronics</b>, early access, 2025 </p>
-    <p class="url">
-    <span><a href="https://ieeexplore.ieee.org/document/10943237">url</a></span>
-    <span><a href="http://cheungsiupaang.github.io/files/TMech.pdf">pdf</a></span>
-    <span><a href="https://github.com/cheungsiupaang/Safe-Planner">code</a></span>
-    </p>
-  </div>
-</div>
 
-### Early-stage Publications
-
-<div class="paper-container">
-  <div class="info-container">
-    <p class="paper-title">Visual servoing control for aerial manipulator via hierarchical motion decomposition</p>
-    <p class="authors"> <b>Zhaopeng Zhang</b>, Wei He, Xiao Liang*, Jianda Han, and Yongchun Fang 
-    </p>
-    <p class="journal"> <b>Control Theory and Applications</b>, in Chinese, 41(5) </p>
-    <p class="url">
-    <span><a href="https://kns.cnki.net/kcms2/article/abstract?v=fr434Wv7ssYZY56kpDGQhLu1mhah8LgPFdEvEfe1i-mnOVllgkuYLOmHXorX3uZCx-PrBeVEbcPCqVbIrnodlb0x1KEw_ifXn6nQGbpfPmllNEwpr5ra14D3r3J9Ifi1O_N820VAneyvipNkacqrstESmDWQ8Ca9IWJV2pqBFXdkteTZq_BFbg==&uniplatform=NZKPT&language=CHS">url</a></span>
-    <span><a href="http://cheungsiupaang.github.io/files/kzllyy.pdf">pdf</a></span>
-    </p>
-  </div>
-</div>
-
-<div class="paper-container">
-  <div class="info-container">
-    <p class="paper-title">An Anti-Swing Controller for Aerial Transportation System with Flexible Suspending Rope</p>
-    <p class="authors"> <b>Zhaopeng Zhang</b>, Xiao Liang*, Zhuang Zhang, and Jianda Han </p>
-    <p class="journal"> <b>Asian Conference on Artificial Intelligence Technology (ACAIT)</b>, 2021 </p>
-    <p class="url">
-    <span><a href="https://ieeexplore.ieee.org/document/9731307">url</a></span>
-    <span><a href="http://cheungsiupaang.github.io/files/acait.pdf">pdf</a></span>
-    </p>
-  </div>
-</div>
