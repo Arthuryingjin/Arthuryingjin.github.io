@@ -6,10 +6,8 @@ redirect_from:
   - /Misc/
   - /Misc.html
 ---
-
 ### Mentorship
 
-- Wang Shunxuan
 
 <!-- ### Other Experience
 
