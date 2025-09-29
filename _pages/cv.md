@@ -9,19 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-My detailed Curriculum Vitae can be downloaded in [CV](/files/ZZP_CV.pdf).
+My detailed Curriculum Vitae can be downloaded in [CV](/files/JincvEn.pdf).
 
 ## Education
 
-* Ph.D., Control Science and Engineer, Nankai University, 2023-now
-* M.Eng., Control Science and Engineer, Nankai University, 2021-2023
-* B.Eng., Automation, Nankai University, 2017-2021
+* Ph.D., Computer Science, University of Liverpool, 2025-now
+* M.Eng., Control Engineering, Nankai University, 2022-2025
+* B.Eng., Automation, Nankai University, 2018-2022
 
 ## Skills
 
 ### Languages
 
-* Chinese (Cantonese, Mandarin)-native, English-fluent, Japanese-basic
+* Chinese, English-fluent
 
 ### Software
 
