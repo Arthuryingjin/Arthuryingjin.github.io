@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cheung Siupaang / Zhang Zhaopeng"
+title                    : "Ying Arthur Jin"
 title_separator          : "-"
-name                     : &name "Cheung Siupaang"
-description              : &description "PhD Candidate of Nankai University"
-url                      : https://cheungsiupaang.github.io 
+name                     : &name "Jin Ying"
+description              : &description "PhD Candidate of University of Liverpool"
+url                      : https://arthuryingjin.github.io 
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cheungsiupaang/cheungsiupaang.github.io"
