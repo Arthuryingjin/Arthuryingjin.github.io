@@ -24,7 +24,7 @@ My research interest includes robotic manipulation and Reinforcement Learning.
       Sep. 2025 – now
     </td>
     <td style="padding-left: 20px; width: 30%; text-align: center; border: none;"> <!-- 图标居中 -->
-      <img src="/images/Liverpool.jpg" alt="University of Liverpool Logo" width="56%">
+      <img src="/images/logo-UoL.png" alt="University of Liverpool Logo" width="60%">
     </td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@ My research interest includes robotic manipulation and Reinforcement Learning.
       Sep. 2022 – Jun. 2025
     </td>
     <td style="padding-left: 20px; width: 30%; text-align: center; border: none;"> <!-- 图标居中 -->
-      <img src="/images/nankai-logo.png" alt="Nankai University Logo" width="60%">
+      <img src="/images/logo-NK.png" alt="Nankai University Logo" width="60%">
     </td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ My research interest includes robotic manipulation and Reinforcement Learning.
       Sep. 2018 – Jun. 2022
     </td>
     <td style="padding-left: 20px; padding-top: 20px; width: 30%; text-align: center; border: none;"> <!-- 图标居中 -->
-      <img src="/images/nankai-logo.png" alt="Nankai University Logo" width="60%">
+      <img src="/images/logo-NK.png" alt="Nankai University Logo" width="60%">
     </td>
   </tr>
 </table>
