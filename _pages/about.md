@@ -24,14 +24,14 @@ My research interest includes robotic manipulation and Reinforcement Learning.
       Sep. 2025 – now
     </td>
     <td style="padding-left: 20px; width: 30%; text-align: center; border: none;"> <!-- 图标居中 -->
-      <img src="/images/Liverpool.jpg" alt="University of Liverpool Logo" width="60%">
+      <img src="/images/Liverpool.jpg" alt="University of Liverpool Logo" width="56%">
     </td>
   </tr>
   <tr>
     <td style="vertical-align:top; width: 70%; font-size: 16px; border: none;"> <!-- 增加字体大小 -->
       <strong>College of Artificial Intelligence, Nankai University</strong><br>
        Master’s Program in Control Engineering<br>
-      Sep. 2022 – 2025
+      Sep. 2022 – Jun. 2025
     </td>
     <td style="padding-left: 20px; width: 30%; text-align: center; border: none;"> <!-- 图标居中 -->
       <img src="/images/nankai-logo.png" alt="Nankai University Logo" width="60%">
