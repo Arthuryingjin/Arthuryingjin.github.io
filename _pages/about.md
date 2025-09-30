@@ -24,7 +24,7 @@ My research interest includes robotic manipulation and Reinforcement Learning.
       Sep. 2025 – now
     </td>
     <td style="padding-left: 20px; width: 30%; text-align: center; border: none;"> <!-- 图标居中 -->
-      <img src="/images/logo-UoL.png" alt="University of Liverpool Logo" width="36%">
+      <img src="/images/logo-UoL.png" alt="University of Liverpool Logo" width="32%">
     </td>
   </tr>
   <tr>
