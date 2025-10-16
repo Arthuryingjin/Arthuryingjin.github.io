@@ -40,7 +40,7 @@ My research interest includes robotic manipulation and Reinforcement Learning.
   <tr>
     <td style="vertical-align:top; padding-top: 20px; width: 70%; font-size: 16px; border: none;"> <!-- 增加字体大小 -->
       <strong>College of Artificial Intelligence, Nankai University</strong><br>
-      Bachelor in Automation, Ranked 2nd/41<br>
+      Bachelor in Automation<br>
       Sep. 2018 – Jun. 2022
     </td>
     <td style="padding-left: 20px; padding-top: 20px; width: 30%; text-align: center; border: none;"> <!-- 图标居中 -->
