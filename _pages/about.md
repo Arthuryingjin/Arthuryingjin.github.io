@@ -19,7 +19,7 @@ My research interest includes robotic manipulation and Reinforcement Learning.
 <table style="border-collapse: collapse; border: none;">
     <tr>
     <td style="vertical-align:top; width: 70%; font-size: 16px; border: none;"> <!-- 增加字体大小 -->
-      <strong>The Department of COMPUTER SCIENCE, University of Liverpool</strong><br>
+      <strong>The Department of Computer Science, University of Liverpool</strong><br>
        P.H.D. Program in Computer Science<br>
       Sep. 2025 – now
     </td>
